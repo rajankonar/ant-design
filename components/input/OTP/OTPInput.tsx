@@ -65,7 +65,7 @@ const OTPInput = React.forwardRef<InputRef, OTPInputProps>((props, ref) => {
 
   // ========================= Render =========================
   return (
-    <span className={`${prefixCls}-input-wrapper`} aria-label={'Otp input'} role="group">
+    <span className={`${prefixCls}-input-wrapper`} role="presentation">
       {/* mask value */}
       {mask && value && (
         <span className={`${prefixCls}-mask-icon`} aria-hidden="true">
@@ -74,6 +74,7 @@ const OTPInput = React.forwardRef<InputRef, OTPInputProps>((props, ref) => {
       )}
 
       <Input
+        aria-label={`OTP Input ${index + 1}`}
         type={mask === true ? 'password' : 'text'}
         {...restProps}
         ref={inputRef}

@@ -3,13 +3,14 @@
 exports[`Input.OTP rtl render component should be rendered correctly in RTL direction 1`] = `
 <div
   class="ant-otp ant-otp-rtl"
+  role="group"
 >
   <span
-    aria-label="Otp input"
     class="ant-otp-input-wrapper"
-    role="group"
+    role="presentation"
   >
     <input
+      aria-label="OTP Input 1"
       class="ant-input ant-input-rtl ant-input-outlined ant-otp-input"
       size="1"
       type="text"
@@ -17,11 +18,11 @@ exports[`Input.OTP rtl render component should be rendered correctly in RTL dire
     />
   </span>
   <span
-    aria-label="Otp input"
     class="ant-otp-input-wrapper"
-    role="group"
+    role="presentation"
   >
     <input
+      aria-label="OTP Input 2"
       class="ant-input ant-input-rtl ant-input-outlined ant-otp-input"
       size="1"
       type="text"
@@ -29,11 +30,11 @@ exports[`Input.OTP rtl render component should be rendered correctly in RTL dire
     />
   </span>
   <span
-    aria-label="Otp input"
     class="ant-otp-input-wrapper"
-    role="group"
+    role="presentation"
   >
     <input
+      aria-label="OTP Input 3"
       class="ant-input ant-input-rtl ant-input-outlined ant-otp-input"
       size="1"
       type="text"
@@ -41,11 +42,11 @@ exports[`Input.OTP rtl render component should be rendered correctly in RTL dire
     />
   </span>
   <span
-    aria-label="Otp input"
     class="ant-otp-input-wrapper"
-    role="group"
+    role="presentation"
   >
     <input
+      aria-label="OTP Input 4"
       class="ant-input ant-input-rtl ant-input-outlined ant-otp-input"
       size="1"
       type="text"
@@ -53,11 +54,11 @@ exports[`Input.OTP rtl render component should be rendered correctly in RTL dire
     />
   </span>
   <span
-    aria-label="Otp input"
     class="ant-otp-input-wrapper"
-    role="group"
+    role="presentation"
   >
     <input
+      aria-label="OTP Input 5"
       class="ant-input ant-input-rtl ant-input-outlined ant-otp-input"
       size="1"
       type="text"
@@ -65,11 +66,11 @@ exports[`Input.OTP rtl render component should be rendered correctly in RTL dire
     />
   </span>
   <span
-    aria-label="Otp input"
     class="ant-otp-input-wrapper"
-    role="group"
+    role="presentation"
   >
     <input
+      aria-label="OTP Input 6"
       class="ant-input ant-input-rtl ant-input-outlined ant-otp-input"
       size="1"
       type="text"

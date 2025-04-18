@@ -10292,13 +10292,14 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
   </h5>
   <div
     class="ant-otp"
+    role="group"
   >
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 1"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10306,11 +10307,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 2"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10318,11 +10319,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 3"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10330,11 +10331,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 4"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10342,11 +10343,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 5"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10354,11 +10355,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 6"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10373,13 +10374,14 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
   </h5>
   <div
     class="ant-otp"
+    role="group"
   >
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 1"
         class="ant-input ant-input-disabled ant-input-outlined ant-otp-input"
         disabled=""
         size="1"
@@ -10388,11 +10390,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 2"
         class="ant-input ant-input-disabled ant-input-outlined ant-otp-input"
         disabled=""
         size="1"
@@ -10401,11 +10403,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 3"
         class="ant-input ant-input-disabled ant-input-outlined ant-otp-input"
         disabled=""
         size="1"
@@ -10414,11 +10416,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 4"
         class="ant-input ant-input-disabled ant-input-outlined ant-otp-input"
         disabled=""
         size="1"
@@ -10427,11 +10429,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 5"
         class="ant-input ant-input-disabled ant-input-outlined ant-otp-input"
         disabled=""
         size="1"
@@ -10440,11 +10442,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 6"
         class="ant-input ant-input-disabled ant-input-outlined ant-otp-input"
         disabled=""
         size="1"
@@ -10460,13 +10462,14 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
   </h5>
   <div
     class="ant-otp"
+    role="group"
   >
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 1"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10474,11 +10477,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 2"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10486,11 +10489,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 3"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10498,11 +10501,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 4"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10510,11 +10513,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 5"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10522,11 +10525,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 6"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10534,11 +10537,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 7"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10546,11 +10549,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 8"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10565,13 +10568,14 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
   </h5>
   <div
     class="ant-otp"
+    role="group"
   >
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 1"
         class="ant-input ant-input-filled ant-otp-input"
         size="1"
         type="text"
@@ -10579,11 +10583,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 2"
         class="ant-input ant-input-filled ant-otp-input"
         size="1"
         type="text"
@@ -10591,11 +10595,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 3"
         class="ant-input ant-input-filled ant-otp-input"
         size="1"
         type="text"
@@ -10603,11 +10607,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 4"
         class="ant-input ant-input-filled ant-otp-input"
         size="1"
         type="text"
@@ -10615,11 +10619,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 5"
         class="ant-input ant-input-filled ant-otp-input"
         size="1"
         type="text"
@@ -10627,11 +10631,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 6"
         class="ant-input ant-input-filled ant-otp-input"
         size="1"
         type="text"
@@ -10646,13 +10650,14 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
   </h5>
   <div
     class="ant-otp"
+    role="group"
   >
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 1"
         class="ant-input ant-input-outlined ant-otp-input ant-otp-mask-input"
         size="1"
         type="text"
@@ -10660,11 +10665,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 2"
         class="ant-input ant-input-outlined ant-otp-input ant-otp-mask-input"
         size="1"
         type="text"
@@ -10672,11 +10677,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 3"
         class="ant-input ant-input-outlined ant-otp-input ant-otp-mask-input"
         size="1"
         type="text"
@@ -10684,11 +10689,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 4"
         class="ant-input ant-input-outlined ant-otp-input ant-otp-mask-input"
         size="1"
         type="text"
@@ -10696,11 +10701,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 5"
         class="ant-input ant-input-outlined ant-otp-input ant-otp-mask-input"
         size="1"
         type="text"
@@ -10708,11 +10713,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       />
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 6"
         class="ant-input ant-input-outlined ant-otp-input ant-otp-mask-input"
         size="1"
         type="text"
@@ -10727,13 +10732,14 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
   </h5>
   <div
     class="ant-otp"
+    role="group"
   >
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 1"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10748,11 +10754,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       </span>
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 2"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10767,11 +10773,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       </span>
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 3"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10786,11 +10792,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       </span>
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 4"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10805,11 +10811,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       </span>
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 5"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10824,11 +10830,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       </span>
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 6"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10843,13 +10849,14 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
   </h5>
   <div
     class="ant-otp"
+    role="group"
   >
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 1"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10866,11 +10873,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       </span>
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 2"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10887,11 +10894,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       </span>
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 3"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10908,11 +10915,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       </span>
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 4"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10929,11 +10936,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       </span>
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 5"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
@@ -10950,11 +10957,11 @@ exports[`renders components/input/demo/otp.tsx extend context correctly 1`] = `
       </span>
     </span>
     <span
-      aria-label="Otp input"
       class="ant-otp-input-wrapper"
-      role="group"
+      role="presentation"
     >
       <input
+        aria-label="OTP Input 6"
         class="ant-input ant-input-outlined ant-otp-input"
         size="1"
         type="text"
