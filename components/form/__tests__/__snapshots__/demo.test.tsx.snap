@@ -12614,14 +12614,13 @@ exports[`renders components/form/demo/validate-static.tsx correctly 1`] = `
           >
             <div
               class="ant-otp"
-              role="group"
             >
               <span
+                aria-label="Otp input"
                 class="ant-otp-input-wrapper"
-                role="presentation"
+                role="group"
               >
                 <input
-                  aria-label="OTP Input 1"
                   class="ant-input ant-input-outlined ant-input-status-success ant-otp-input"
                   size="1"
                   type="text"
@@ -12629,11 +12628,11 @@ exports[`renders components/form/demo/validate-static.tsx correctly 1`] = `
                 />
               </span>
               <span
+                aria-label="Otp input"
                 class="ant-otp-input-wrapper"
-                role="presentation"
+                role="group"
               >
                 <input
-                  aria-label="OTP Input 2"
                   class="ant-input ant-input-outlined ant-input-status-success ant-otp-input"
                   size="1"
                   type="text"
@@ -12641,11 +12640,11 @@ exports[`renders components/form/demo/validate-static.tsx correctly 1`] = `
                 />
               </span>
               <span
+                aria-label="Otp input"
                 class="ant-otp-input-wrapper"
-                role="presentation"
+                role="group"
               >
                 <input
-                  aria-label="OTP Input 3"
                   class="ant-input ant-input-outlined ant-input-status-success ant-otp-input"
                   size="1"
                   type="text"
@@ -12653,11 +12652,11 @@ exports[`renders components/form/demo/validate-static.tsx correctly 1`] = `
                 />
               </span>
               <span
+                aria-label="Otp input"
                 class="ant-otp-input-wrapper"
-                role="presentation"
+                role="group"
               >
                 <input
-                  aria-label="OTP Input 4"
                   class="ant-input ant-input-outlined ant-input-status-success ant-otp-input"
                   size="1"
                   type="text"
@@ -12665,11 +12664,11 @@ exports[`renders components/form/demo/validate-static.tsx correctly 1`] = `
                 />
               </span>
               <span
+                aria-label="Otp input"
                 class="ant-otp-input-wrapper"
-                role="presentation"
+                role="group"
               >
                 <input
-                  aria-label="OTP Input 5"
                   class="ant-input ant-input-outlined ant-input-status-success ant-otp-input"
                   size="1"
                   type="text"
@@ -12677,11 +12676,11 @@ exports[`renders components/form/demo/validate-static.tsx correctly 1`] = `
                 />
               </span>
               <span
+                aria-label="Otp input"
                 class="ant-otp-input-wrapper"
-                role="presentation"
+                role="group"
               >
                 <input
-                  aria-label="OTP Input 6"
                   class="ant-input ant-input-outlined ant-input-status-success ant-otp-input"
                   size="1"
                   type="text"
@@ -12721,14 +12720,13 @@ exports[`renders components/form/demo/validate-static.tsx correctly 1`] = `
           >
             <div
               class="ant-otp"
-              role="group"
             >
               <span
+                aria-label="Otp input"
                 class="ant-otp-input-wrapper"
-                role="presentation"
+                role="group"
               >
                 <input
-                  aria-label="OTP Input 1"
                   class="ant-input ant-input-outlined ant-input-status-warning ant-otp-input"
                   size="1"
                   type="text"
@@ -12736,11 +12734,11 @@ exports[`renders components/form/demo/validate-static.tsx correctly 1`] = `
                 />
               </span>
               <span
+                aria-label="Otp input"
                 class="ant-otp-input-wrapper"
-                role="presentation"
+                role="group"
               >
                 <input
-                  aria-label="OTP Input 2"
                   class="ant-input ant-input-outlined ant-input-status-warning ant-otp-input"
                   size="1"
                   type="text"
@@ -12748,11 +12746,11 @@ exports[`renders components/form/demo/validate-static.tsx correctly 1`] = `
                 />
               </span>
               <span
+                aria-label="Otp input"
                 class="ant-otp-input-wrapper"
-                role="presentation"
+                role="group"
               >
                 <input
-                  aria-label="OTP Input 3"
                   class="ant-input ant-input-outlined ant-input-status-warning ant-otp-input"
                   size="1"
                   type="text"
@@ -12760,11 +12758,11 @@ exports[`renders components/form/demo/validate-static.tsx correctly 1`] = `
                 />
               </span>
               <span
+                aria-label="Otp input"
                 class="ant-otp-input-wrapper"
-                role="presentation"
+                role="group"
               >
                 <input
-                  aria-label="OTP Input 4"
                   class="ant-input ant-input-outlined ant-input-status-warning ant-otp-input"
                   size="1"
                   type="text"
@@ -12772,11 +12770,11 @@ exports[`renders components/form/demo/validate-static.tsx correctly 1`] = `
                 />
               </span>
               <span
+                aria-label="Otp input"
                 class="ant-otp-input-wrapper"
-                role="presentation"
+                role="group"
               >
                 <input
-                  aria-label="OTP Input 5"
                   class="ant-input ant-input-outlined ant-input-status-warning ant-otp-input"
                   size="1"
                   type="text"
@@ -12784,11 +12782,11 @@ exports[`renders components/form/demo/validate-static.tsx correctly 1`] = `
                 />
               </span>
               <span
+                aria-label="Otp input"
                 class="ant-otp-input-wrapper"
-                role="presentation"
+                role="group"
               >
                 <input
-                  aria-label="OTP Input 6"
                   class="ant-input ant-input-outlined ant-input-status-warning ant-otp-input"
                   size="1"
                   type="text"
@@ -12828,14 +12826,13 @@ exports[`renders components/form/demo/validate-static.tsx correctly 1`] = `
           >
             <div
               class="ant-otp"
-              role="group"
             >
               <span
+                aria-label="Otp input"
                 class="ant-otp-input-wrapper"
-                role="presentation"
+                role="group"
               >
                 <input
-                  aria-label="OTP Input 1"
                   class="ant-input ant-input-outlined ant-input-status-error ant-otp-input"
                   size="1"
                   type="text"
@@ -12843,11 +12840,11 @@ exports[`renders components/form/demo/validate-static.tsx correctly 1`] = `
                 />
               </span>
               <span
+                aria-label="Otp input"
                 class="ant-otp-input-wrapper"
-                role="presentation"
+                role="group"
               >
                 <input
-                  aria-label="OTP Input 2"
                   class="ant-input ant-input-outlined ant-input-status-error ant-otp-input"
                   size="1"
                   type="text"
@@ -12855,11 +12852,11 @@ exports[`renders components/form/demo/validate-static.tsx correctly 1`] = `
                 />
               </span>
               <span
+                aria-label="Otp input"
                 class="ant-otp-input-wrapper"
-                role="presentation"
+                role="group"
               >
                 <input
-                  aria-label="OTP Input 3"
                   class="ant-input ant-input-outlined ant-input-status-error ant-otp-input"
                   size="1"
                   type="text"
@@ -12867,11 +12864,11 @@ exports[`renders components/form/demo/validate-static.tsx correctly 1`] = `
                 />
               </span>
               <span
+                aria-label="Otp input"
                 class="ant-otp-input-wrapper"
-                role="presentation"
+                role="group"
               >
                 <input
-                  aria-label="OTP Input 4"
                   class="ant-input ant-input-outlined ant-input-status-error ant-otp-input"
                   size="1"
                   type="text"
@@ -12879,11 +12876,11 @@ exports[`renders components/form/demo/validate-static.tsx correctly 1`] = `
                 />
               </span>
               <span
+                aria-label="Otp input"
                 class="ant-otp-input-wrapper"
-                role="presentation"
+                role="group"
               >
                 <input
-                  aria-label="OTP Input 5"
                   class="ant-input ant-input-outlined ant-input-status-error ant-otp-input"
                   size="1"
                   type="text"
@@ -12891,11 +12888,11 @@ exports[`renders components/form/demo/validate-static.tsx correctly 1`] = `
                 />
               </span>
               <span
+                aria-label="Otp input"
                 class="ant-otp-input-wrapper"
-                role="presentation"
+                role="group"
               >
                 <input
-                  aria-label="OTP Input 6"
                   class="ant-input ant-input-outlined ant-input-status-error ant-otp-input"
                   size="1"
                   type="text"
